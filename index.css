@@ -12,7 +12,7 @@
     }
 }
 
-@media (min-widrh: 1500px) and (max-width: 1500px) {
+@media (min-widrh: 1500px) and (max-width: 2300px) {
     .desktop {
         display: none;
     }
